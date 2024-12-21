@@ -1,7 +1,7 @@
 ![logo](https://github.com/Ashwinihebbali/popular-repository/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ashwini vishal hebbali</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif"> 
+<img align="right" alt="coding" width="400" src=<a href="https://www.vecteezy.com/video/41885375-ai-generated-a-robot-hand-and-human-hand-pointing-technology-connection-concept">AI generated A robot hand and human hand pointing ,Technology connection concept. Stock Videos by Vecteezy</a> " 
 - 🔭 I’m currently working on **Prediction of house rent**
 
 - 🌱 I’m currently learning **python,java**
