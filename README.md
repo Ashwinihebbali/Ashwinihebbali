@@ -1,12 +1,14 @@
-![logo](https://github.com/Ashwinihebbali/popular-repository/blob/main/github-header-image.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Ashwini vishal hebbali</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcoding&psig=AOvVaw2os_eb2WkWYtTlXvs3KYu8&ust=1734859216557000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDchbLEuIoDFQAAAAAdAAAAABAZ" 
-- 🔭 I’m currently working on **Prediction of house rent**
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"
 
-- 🌱 I’m currently learning **python,java**
 
-- 📫 How to reach me **ashwinihebbali068@gmail.com**
+
+   
+  - 🔭 I’m currently working on **Prediction of house rent**
+  - 🌱 I’m currently learning **python,java**
+  - 📫 How to reach me **ashwinihebbali068@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
