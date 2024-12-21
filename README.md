@@ -1,4 +1,4 @@
-   ![logo](https://github.com/Ashwinihebbali/AI/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).gif?raw=true) 
+   ![logo]() 
 <h1 align="center">Hi 👋, I'm Ashwini vishal hebbali</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"
