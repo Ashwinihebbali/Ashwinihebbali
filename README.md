@@ -1,4 +1,5 @@
-![GitHub followers](https://img.shields.io/github/followers/Ashwinihebbali?style=social)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinihebbali&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinihebbali" /> </p>
+
  ![logo](https://github.com/Ashwinihebbali/popular-repository/blob/main/github-header-image%20(1).png?raw=true) 
 <h1 align="center">Hi 👋, I'm Ashwini vishal hebbali</h1>
 <h3 align="center">A passionate software developer from India</h3>
