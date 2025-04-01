@@ -9,8 +9,7 @@
 
 
    
-  - 🔭 I’m currently working on **Prediction of house rent**
-  - 🌱 I’m currently learning **python,java**
+  - 🔭 I’m currently working on **python projects**
   - 📫 How to reach me **ashwinihebbali068@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
