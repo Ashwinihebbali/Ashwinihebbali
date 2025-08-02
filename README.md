@@ -1,3 +1,5 @@
+<img width="777" height="437" alt="image" src="https://github.com/user-attachments/assets/b58108ea-42f8-46f1-96bc-103bc1443a97" />
+
 <h1 align="center">Hi 👋, I'm Ashwini Vishal Hebbali</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
