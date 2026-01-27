@@ -6,21 +6,21 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashwini Vishal Hebbali</h1>
-<h3 align="center">A passionate Software Developer from India✨</h3>
+<h3 align="center">A Software Engineering Student with a Deep Passion for ML and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinihebbali&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinihebbali" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinihebbali" alt="ashwinihebbali" /></a> </p>
 
-- 🔭 I'm passionate about **AI and Machine Learning, currently working on Python-based AI projects.**
+- 🔭 I’m currently working on Python-based ML projects, focusing on developing machine learning algorithms and data analysis tools.**
 
-- 🌱 I’m currently learning **JavaScript, React, Angular and Vue.**
+- 🌱 I’m currently using Flutter, TensorFlow, and Keras for ML/DL projects.**
 
 - 👯 I’m looking to collaborate on **Creating Web Applications.**
 
-- 💬 Ask me about **Python, front-end development, and designing.**
+- 💬 Ask me about Python, Flask, Django, and building real-time web applications.**
 
-- 📫 How to reach me **ashwinihebbali068@gnail.com**
+- 📫 How to reach me **ashwinihebbali068@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
