@@ -12,13 +12,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinihebbali" alt="ashwinihebbali" /></a> </p>
 
-- 🔭 I’m currently working on Python-based ML projects, focusing on developing machine learning algorithms and data analysis tools.**
+- 🔭 I’m currently working on Python-based ML projects, focusing on developing machine learning algorithms and data analysis tools.
 
-- 🌱 I’m currently using Flutter, TensorFlow, and Keras for ML/DL projects.**
+- 🌱 I’m currently using Flutter, TensorFlow, and Keras for ML/DL projects.
 
-- 👯 I’m looking to collaborate on **Creating Web Applications.**
+- 👯 I’m looking to collaborate on Creating Web Applications.
 
-- 💬 Ask me about Python, Flask, Django, and building real-time web applications.**
+- 💬 Ask me about Python, Flask, Django, and building real-time web applications.
 
 - 📫 How to reach me **ashwinihebbali068@gmail.com**
 
