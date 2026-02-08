@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Ashwinihebbali&color=0e75b6&style=flat-square)
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="400"/>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="300"/>
 
 </div>
 
