@@ -4,19 +4,19 @@
 
 ### AI/ML Engineer | Deep Learning Researcher | Full-Stack Developer
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="400"/>
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashwinihebbali068@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Ashwinihebbali)
 
 ![](https://komarev.com/ghpvc/?username=Ashwinihebbali&color=0e75b6&style=flat-square)
 
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="400"/>
+
 </div>
 
 ---
 
-## 👨‍💻 About
+## About Me:
 
 Passionate AI/ML Engineer specializing in **production-grade machine learning systems**, **computer vision**, and **natural language processing**. Experienced in designing and deploying scalable AI solutions with a strong foundation in full-stack development and cloud infrastructure.
 
@@ -76,12 +76,7 @@ Passionate AI/ML Engineer specializing in **production-grade machine learning sy
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashwinihebbali&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinihebbali&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-</div>
 
 <div align="center">
 
@@ -97,19 +92,12 @@ Passionate AI/ML Engineer specializing in **production-grade machine learning sy
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ashwinihebbali&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Achievements"/>
-
-</div>
 
 ---
 
-## 🤝 Open for Collaboration
+## Open for Collaboration
 
-<div align="center">
+
 
 ### 🟢 Available for Projects & Opportunities
 
