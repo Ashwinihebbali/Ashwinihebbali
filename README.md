@@ -162,6 +162,4 @@ I'm always interested in discussing **AI/ML**, **system design**, **research opp
 
 ⭐️ **If you find my work interesting, consider starring the repositories!**
 
-*Updated: February 2026*
-
 </div>
