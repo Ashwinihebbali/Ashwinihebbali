@@ -121,31 +121,6 @@ Passionate AI/ML Engineer specializing in **production-grade machine learning sy
 
 ---
 
-## 💼 Professional Interests
-
-```yaml
-roles_interested_in:
-  - Machine Learning Engineer
-  - AI Research Engineer
-  - Computer Vision Engineer
-  - NLP Engineer
-  - Full-Stack AI Developer
-  
-preferred_tech_stack:
-  deep_learning: [PyTorch, TensorFlow, Hugging Face]
-  backend: [FastAPI, Flask, Node.js]
-  frontend: [React, TypeScript]
-  cloud: [GCP, AWS, Docker, Kubernetes]
-  
-work_style:
-  - Remote-first environments
-  - Research-driven development
-  - Continuous learning culture
-  - Impactful products
-```
-
----
-
 ## 📈 Contribution Activity
 
 <!--START_SECTION:activity-->
