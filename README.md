@@ -18,7 +18,7 @@
 
 ## About Me:
 
-Passionate AI/ML Engineer specializing in **production-grade machine learning systems**, **computer vision**, and **natural language processing**. Experienced in designing and deploying scalable AI solutions with a strong foundation in full-stack development and cloud infrastructure.
+Passionate AI/ML Enthusiast specializing in **production-grade machine learning systems**, **computer vision**, and **natural language processing**. Experienced in designing and deploying scalable AI solutions with a strong foundation in full-stack development and cloud infrastructure.
 
 **Core Competencies:**
 - 🧠 Deep Learning & Neural Networks (CNNs, Transformers, LLMs)
