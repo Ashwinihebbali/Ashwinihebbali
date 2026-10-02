@@ -16,17 +16,23 @@
 </div>
 
 ---
+## 👨‍💻 About Me
 
-## About Me:
+Passionate **Software Engineer and AI/ML Enthusiast** with a strong interest in building intelligent, scalable, and user-focused applications. Experienced in developing AI-powered projects that combine **machine learning, deep learning, natural language processing, and full-stack development** to solve real-world problems.
 
-Passionate AI/ML Enthusiast specializing in **production-grade machine learning systems**, **computer vision**, and **natural language processing**. Experienced in designing and deploying scalable AI solutions with a strong foundation in full-stack development and cloud infrastructure.
+I enjoy transforming complex ideas into practical solutions, from developing machine learning models and intelligent systems to building interactive web applications and integrating AI capabilities through APIs. I am continuously strengthening my problem-solving skills, software engineering fundamentals, and knowledge of emerging AI technologies.
 
-**Core Competencies:**
-- 🧠 Deep Learning & Neural Networks (CNNs, Transformers, LLMs)
-- 👁️ Computer Vision (Object Detection, Image Classification, Face Recognition)
-- 💬 Natural Language Processing (Sentiment Analysis, Text Classification, RAG)
-- ⚡ Model Optimization & Production Deployment
-- 🌐 Full-Stack Development (React, FastAPI, REST APIs)
+**🚀 Core Competencies**
+
+* 🧠 **Machine Learning & Deep Learning:** Neural Networks, CNNs, Transformers, Model Training and Evaluation
+* 👁️ **Computer Vision:** Image Classification, Object Detection, Image Processing
+* 💬 **Natural Language Processing:** Sentiment Analysis, Text Classification, LLMs, Retrieval-Augmented Generation (RAG)
+* 🤖 **Generative AI:** LLM Applications, AI Agents, Prompt Engineering
+* 💻 **Software Engineering:** Python, Data Structures & Algorithms, Object-Oriented Programming, Problem Solving
+* 🌐 **Full-Stack Development:** React, TypeScript, FastAPI, Flask, REST APIs
+* 🗄️ **Data & Cloud Technologies:** SQL, PostgreSQL, Supabase, Git, Google Cloud
+
+🎯 **Career Focus:** Software Engineering, AI/ML Engineering, and developing reliable, data-driven applications through continuous learning and hands-on projects.
 
 ---
 
@@ -92,14 +98,6 @@ Passionate AI/ML Enthusiast specializing in **production-grade machine learning 
 </div>
 
 ---
-
-
----
-
-## Open for Collaboration
-
-
-
 ### 🟢 Available for Projects & Opportunities
 
 </div>
