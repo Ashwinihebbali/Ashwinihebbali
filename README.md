@@ -1,8 +1,9 @@
 <div align="center">
 
 # Ashwini Vishal Hebbali
+### 💻 Software Engineer | 🤖 AI/ML Engineer | 🌐 Full-Stack Developer
 
-### AI/ML Enthusiast | Deep Learning Researcher | Full-Stack Developer
+**Building practical software solutions powered by intelligent technologies.**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashwinihebbali068@gmail.com)
