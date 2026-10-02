@@ -1,7 +1,7 @@
 <div align="center">
 
-# Ashwini Vishal Hebbali
-### 💻 Software Engineer | 🤖 AI/ML Engineer | 🌐 Full-Stack Developer
+##  👋 Hi, I'm Ashwini Vishal Hebbali
+### Aspiring 💻 Software Engineer | 🤖 AI/ML Engineer | 🌐 Full-Stack Developer
 
 **Building practical software solutions powered by intelligent technologies.**
 
